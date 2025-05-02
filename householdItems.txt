@@ -5,3 +5,6 @@ List of Items:
 - Bed
 - Lamp
 - Cupboard
+
+
+-Television
